@@ -1,4 +1,4 @@
-# Sales Forecasting Read Me
+# Sales Forecasting - ReadMe
 
 ## Overview
 This project focuses on sales forecasting for Decathlon Singapore using the available sales data from 2020. The goal is to predict the turnover generated in the first three months of 2021, both for offline and online sales. To achieve this, several steps are followed, including feature preparation, data splitting, hyperparameter tuning, and model selection. Three different models are considered for forecasting: Elastic Net, XGBoost, and LSTM.
